@@ -22,7 +22,7 @@
  "kingdom": "Plantae",
  "order": "Zingiberales",
  "family": "Musaceae",
- "genus": "Musa"    
+ "genus": "Musa",    
  "carbohydrates": ["Sugar", "Dietary fiber"],
  "vitamins": ["Thiamine (B1)", "Riboflavin (B2)", "Niacin (B3)", "Pantothenic acid (B5)", "Vitamin B6", "Folate (B9)", "Choline", "Vitamin C"],
  "minerals": ["Iron", "Magnesium", "Manganese", "Phosphorus", "Potassium", "Sodium", "Zinc"],
